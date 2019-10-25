@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Поисковик</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+<h1>Найдется всё!</h1>
+<p>Введите Ваш запрос</p>
+<form action="/results">
+<ol>
+	<li>
+  <div class="form-group">
+    <label for="exampleFormControlInput1"><b>Ваш запрос</b></label>
+    <input type="text"  name="query" class="form-control" id="exampleFormControlInput1" placeholder="как пройти в библиотеку">
+  </div>
+	</li>
+  <li>
+  <div class="form-group">
+    <label for="exampleFormControlSelect1"><b>С помощью какой модели поискать</b></label>
+    <select class="form-control" name="model" id="exampleFormControlSelect1">
+    <option selected>...</option>
+      <option>TF-IDF</option>
+      <option>BM25</option>
+      <option>FastText</option>
+      <option>ELMO</option>
+      
+    </select>
+
+  <h1> </h1>
+
+  <button type="submit" class="btn btn-primary">Искать</button>
+</form>
+</div>
+</body>
+</html>
