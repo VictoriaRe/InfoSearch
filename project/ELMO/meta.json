@@ -1,0 +1,69 @@
+{
+    "algorithm": {
+        "command": null,
+        "id": 6,
+        "name": "Embeddings from Language Models (ELMo)",
+        "url": "https://allennlp.org/elmo",
+        "version": null
+    },
+    "contents": [
+        {
+            "filename": "options.json",
+            "format": "json"
+        },
+        {
+            "filename": "meta.json",
+            "format": "json"
+        },
+        {
+            "filename": "model.hdf5",
+            "format": "data"
+        },
+        {
+            "filename": "vocab.txt",
+            "format": "text"
+        }
+    ],
+    "corpus": [
+        {
+            "NER": false,
+            "case preserved": true,
+            "description": "Russian Wikipedia dump of December 2018",
+            "id": 105,
+            "language": "rus",
+            "lemmatized": true,
+            "public": true,
+            "stop words removal": null,
+            "tagger": "UDPipe 1.2",
+            "tagset": null,
+            "tokens": 654812259,
+            "tool": "https://github.com/RaRe-Technologies/gensim/blob/master/gensim/scripts/segment_wiki.py",
+            "url": "https://dumps.wikimedia.org/"
+        },
+        {
+            "NER": false,
+            "case preserved": true,
+            "description": "Russian National Corpus",
+            "id": 106,
+            "language": "rus",
+            "lemmatized": true,
+            "public": false,
+            "stop words removal": null,
+            "tagger": "UDPipe 1.2",
+            "tagset": null,
+            "tokens": 334166891,
+            "url": "http://ruscorpora.ru/"
+        }
+    ],
+    "dimensions": 1024,
+    "documentation": "https://github.com/ltgoslo/simple_elmo",
+    "external_id": "ruwikiruscorpora_lemmas_elmo_1024_2019",
+    "id": 196,
+    "iterations": 3,
+    "maintainers": [
+        {
+            "email": "andreku@ifi.uio.no",
+            "name": "Andrey Kutuzov"
+        }
+    ]
+}
