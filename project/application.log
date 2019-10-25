@@ -1,0 +1,488 @@
+Fri, 25 Oct 2019 11:31:31 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:31:31 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:31:31 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:31:32 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:31:56 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:31:56 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:31:56 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:31:56 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:31:57 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 11:32:24 INFO     127.0.0.1 - - [25/Oct/2019 11:32:24] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:32:24 INFO     127.0.0.1 - - [25/Oct/2019 11:32:24] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:32:34 INFO     Query: привет, Model: TF-IDF
+Fri, 25 Oct 2019 11:32:34 INFO     Result: [('являются японцами генетически смешанных людей', 0.0), ('являются формами улучшения cbse 2017', 0.0), ('являются флуктуации вакуума, возникающие из-за того, что энергия в вакууме являются этими виртуальными частицами', 0.0), ('являются услугами call girl в Японии', 0.0), ('являются расовые отношения лучше или хуже при президенте Обама', 0.0), ('являются покупки обуви с учетом налога с продаж в новой майке', 0.0), ('являются платками ouija поддельными или реальными', 0.0), ('являются новыми кредитами Macbook за 2016 год, которые стоит повысить', 0.0), ('являются мусульманами, единственными, кто все еще практикует побивание камнями для прелюбодеяния в 21 веке', 0.0), ('являются ли преимущества отрицательных ионов доказанными или являются мифом', 0.0)]
+Fri, 25 Oct 2019 11:32:34 INFO     127.0.0.1 - - [25/Oct/2019 11:32:34] "[37mGET /results?query=привет&model=TF-IDF HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:33:58 INFO     127.0.0.1 - - [25/Oct/2019 11:33:58] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:34:05 INFO     Query: rвпморилотд, Model: BM25
+Fri, 25 Oct 2019 11:34:05 INFO     Result: [('являются японцами генетически смешанных людей', 0.0), ('являются формами улучшения cbse 2017', 0.0), ('являются флуктуации вакуума, возникающие из-за того, что энергия в вакууме являются этими виртуальными частицами', 0.0), ('являются услугами call girl в Японии', 0.0), ('являются расовые отношения лучше или хуже при президенте Обама', 0.0), ('являются покупки обуви с учетом налога с продаж в новой майке', 0.0), ('являются платками ouija поддельными или реальными', 0.0), ('являются новыми кредитами Macbook за 2016 год, которые стоит повысить', 0.0), ('являются мусульманами, единственными, кто все еще практикует побивание камнями для прелюбодеяния в 21 веке', 0.0), ('являются ли преимущества отрицательных ионов доказанными или являются мифом', 0.0)]
+Fri, 25 Oct 2019 11:34:06 INFO     127.0.0.1 - - [25/Oct/2019 11:34:06] "[37mGET /results?query=rвпморилотд&model=BM25 HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:34:06 INFO     127.0.0.1 - - [25/Oct/2019 11:34:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 11:42:29 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:42:29 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:42:29 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:42:29 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:42:29 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 11:42:43 INFO     127.0.0.1 - - [25/Oct/2019 11:42:43] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:42:43 INFO     127.0.0.1 - - [25/Oct/2019 11:42:43] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:42:56 INFO     Query: куку, Model: EMLo
+Fri, 25 Oct 2019 11:42:56 ERROR    Error with query куку and model EMLo:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 86, in thanks
+    batcher, sentence_character_ids, elmo_sentence_input = load_elmo_embeddings(elmo_path)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/elmo_helpers.py", line 53, in load_elmo_embeddings
+    batcher = Batcher(vocab_file, 50)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 207, in __init__
+    lm_vocab_file, max_token_length
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 118, in __init__
+    super(UnicodeCharsVocabulary, self).__init__(filename, **kwargs)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 27, in __init__
+    with open(filename, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'ELMO/vocab.txt'
+Fri, 25 Oct 2019 11:42:56 INFO     127.0.0.1 - - [25/Oct/2019 11:42:56] "[1m[35mGET /results?query=куку&model=EMLo HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 11:42:57 INFO     127.0.0.1 - - [25/Oct/2019 11:42:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 11:43:32 INFO     127.0.0.1 - - [25/Oct/2019 11:43:32] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:43:33 INFO     127.0.0.1 - - [25/Oct/2019 11:43:33] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:43:48 INFO     Query: как дела , Model: TF-IDF
+Fri, 25 Oct 2019 11:43:48 INFO     Result: [('что лучший фильм Гарри Поттера и почему он тоже ваш любимый почему или почему не', 0.57), ('теоретически', 0.5), ('как смотреть торрент-видео во время его загрузки', 0.5), ('какие лучшие хэштеги я могу использовать для своего бренда одежды на instagram', 0.48), ('будет деактивировать мою учетную запись gmail, если она не используется после того, как долго она деактивируется', 0.47), ('как он чувствует себя предпринимателем и сотрудником', 0.45), ('каковы ваши взгляды на девочек-панджаби, как произвести впечатление на девочек-панджаби, включенных в фотографии ниже', 0.43), ('я хочу, чтобы реальный и эффективный способ зарабатывать 500 в месяц, зная, что у меня нет денег на инвестиции', 0.42), ('что происходит после автомобильной аварии без полицейского отчета', 0.41), ('какая область программирования игр наиболее математически связана и подходит для математики', 0.36)]
+Fri, 25 Oct 2019 11:43:48 INFO     127.0.0.1 - - [25/Oct/2019 11:43:48] "[37mGET /results?query=как+дела+&model=TF-IDF HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:43:48 INFO     127.0.0.1 - - [25/Oct/2019 11:43:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 11:44:01 INFO     127.0.0.1 - - [25/Oct/2019 11:44:01] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:44:21 INFO     Query: лучшие фильмы 2019, Model: FastText
+Fri, 25 Oct 2019 11:44:21 INFO     loading Word2VecKeyedVectors object from fasttext/model.model
+Fri, 25 Oct 2019 11:44:22 INFO     loading vectors_vocab from fasttext/model.model.vectors_vocab.npy with mmap=None
+Fri, 25 Oct 2019 11:44:23 INFO     loading vectors_ngrams from fasttext/model.model.vectors_ngrams.npy with mmap=None
+Fri, 25 Oct 2019 11:44:28 INFO     loading vectors from fasttext/model.model.vectors.npy with mmap=None
+Fri, 25 Oct 2019 11:44:29 INFO     setting ignored attribute vectors_vocab_norm to None
+Fri, 25 Oct 2019 11:44:29 INFO     setting ignored attribute buckets_word to None
+Fri, 25 Oct 2019 11:44:29 INFO     setting ignored attribute vectors_norm to None
+Fri, 25 Oct 2019 11:44:29 INFO     setting ignored attribute vectors_ngrams_norm to None
+Fri, 25 Oct 2019 11:44:29 INFO     loaded fasttext/model.model
+Fri, 25 Oct 2019 11:44:32 INFO     Result: [('Каковы лучшие 10 лучших фильмов о голливуде?', 0.9057689111145308), ('это лучший голливудский фильм когда-либо, почему', 0.9001874452181614), ('какие лучшие голливудские фильмы', 0.8805951248052318), ('какие хорошие аниме фильмы', 0.8802852722080523), ('Каков ваш лучший голливудский фильм?', 0.8504369030007513), ('как много фильмов о фильмах', 0.8460811389505871), ('что было лучшим фильмом 2016 года', 0.8303960868356048), ('какие хорошие фильмы смотреть', 0.8232297587457614), ('какие были лучшие фильмы 2014 года', 0.8199645787984893), ('которые являются лучшими фильмами о голливудских триллерах', 0.818341084028536)]
+Fri, 25 Oct 2019 11:44:33 INFO     127.0.0.1 - - [25/Oct/2019 11:44:33] "[37mGET /results?query=лучшие+фильмы+2019&model=FastText HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:44:34 INFO     127.0.0.1 - - [25/Oct/2019 11:44:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 11:45:13 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:45:13 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:45:13 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:45:13 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:45:13 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 11:45:19 INFO     127.0.0.1 - - [25/Oct/2019 11:45:19] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:45:19 INFO     127.0.0.1 - - [25/Oct/2019 11:45:19] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:45:33 INFO     Query: как пройти в библиотеку, Model: FastText
+Fri, 25 Oct 2019 11:45:33 INFO     loading Word2VecKeyedVectors object from fasttext/model.model
+Fri, 25 Oct 2019 11:45:34 INFO     loading vectors_vocab from fasttext/model.model.vectors_vocab.npy with mmap=None
+Fri, 25 Oct 2019 11:45:34 INFO     loading vectors_ngrams from fasttext/model.model.vectors_ngrams.npy with mmap=None
+Fri, 25 Oct 2019 11:45:40 INFO     loading vectors from fasttext/model.model.vectors.npy with mmap=None
+Fri, 25 Oct 2019 11:45:40 INFO     setting ignored attribute vectors_vocab_norm to None
+Fri, 25 Oct 2019 11:45:40 INFO     setting ignored attribute buckets_word to None
+Fri, 25 Oct 2019 11:45:40 INFO     setting ignored attribute vectors_norm to None
+Fri, 25 Oct 2019 11:45:40 INFO     setting ignored attribute vectors_ngrams_norm to None
+Fri, 25 Oct 2019 11:45:40 INFO     loaded fasttext/model.model
+Fri, 25 Oct 2019 11:45:43 INFO     Result: [('как я могу пройти экзамен hp0 - m40?', 0.74), ('как я могу пройти стажировку с командой творчества wwe', 0.73), ('как я могу пройти экзамен gre в физике', 0.71), ('как я могу пройти сертификационный экзамен 70-680', 0.71), ('как я могу пройти 70 - 411 сертификационный экзамен', 0.71), ('как я могу легко пройти жесткий экзамен 1z0 - 523 oracle', 0.71), ('как я могу публиковать тезисы о стоматологии в международной библиотеке для диссертации', 0.67), ('как я могу попасть в гарвард школу?', 0.67), ('как мне пройти через прыжок с amc 10 в aime или aime в usamo, есть ли какие-либо ресурсы, такие как курсы лагерей или книги, рекомендованные', 0.67), ('когда был самый тяжелый период в вашей жизни и как вы прошли', 0.66)]
+Fri, 25 Oct 2019 11:45:44 INFO     127.0.0.1 - - [25/Oct/2019 11:45:44] "[37mGET /results?query=как+пройти+в+библиотеку&model=FastText HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:45:45 INFO     127.0.0.1 - - [25/Oct/2019 11:45:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 11:46:57 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:46:57 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:46:57 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:46:57 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:46:57 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 11:47:02 INFO     127.0.0.1 - - [25/Oct/2019 11:47:02] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:47:02 INFO     127.0.0.1 - - [25/Oct/2019 11:47:02] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:47:17 INFO     Query: как выспаться за два часа, Model: FastText
+Fri, 25 Oct 2019 11:47:17 INFO     loading Word2VecKeyedVectors object from fasttext/model.model
+Fri, 25 Oct 2019 11:47:18 INFO     loading vectors_vocab from fasttext/model.model.vectors_vocab.npy with mmap=None
+Fri, 25 Oct 2019 11:47:19 INFO     loading vectors_ngrams from fasttext/model.model.vectors_ngrams.npy with mmap=None
+Fri, 25 Oct 2019 11:47:24 INFO     loading vectors from fasttext/model.model.vectors.npy with mmap=None
+Fri, 25 Oct 2019 11:47:25 INFO     setting ignored attribute vectors_vocab_norm to None
+Fri, 25 Oct 2019 11:47:25 INFO     setting ignored attribute buckets_word to None
+Fri, 25 Oct 2019 11:47:25 INFO     setting ignored attribute vectors_norm to None
+Fri, 25 Oct 2019 11:47:25 INFO     setting ignored attribute vectors_ngrams_norm to None
+Fri, 25 Oct 2019 11:47:25 INFO     loaded fasttext/model.model
+Fri, 25 Oct 2019 11:47:27 INFO     Result: [('как я могу похудеть за 21 день', 0.81), ('как я могу подготовиться к экзамену kvpy всего за два месяца', 0.79), ('как я могу очистить ibps po за один месяц', 0.79), ('как я могу заснуть в тот же час каждый день', 0.79), ('что я могу узнать за 5 минут', 0.77), ('как я готовлюсь к neet за последние 6 месяцев', 0.76), ('вы можете похудеть за 7 дней', 0.76), ('у вас есть 24 часа, чтобы жить, как вы проведете свой последний день на земле', 0.75), ('сколько раз вы будете заниматься сексом за день', 0.74), ('какой лучший способ похудеть за месяц', 0.74)]
+Fri, 25 Oct 2019 11:47:28 INFO     127.0.0.1 - - [25/Oct/2019 11:47:28] "[37mGET /results?query=как+выспаться+за+два+часа&model=FastText HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:47:29 INFO     127.0.0.1 - - [25/Oct/2019 11:47:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 11:48:00 INFO     127.0.0.1 - - [25/Oct/2019 11:48:00] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:56:33 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:56:33 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:56:33 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:56:33 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:56:33 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 11:56:40 INFO     127.0.0.1 - - [25/Oct/2019 11:56:40] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:57:01 INFO     Query: что делать, Model: EMLo
+Fri, 25 Oct 2019 11:57:01 ERROR    Error with query что делать and model EMLo:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 84, in thanks
+    batcher, sentence_character_ids, elmo_sentence_input = load_elmo_embeddings(elmo_path)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/elmo_helpers.py", line 53, in load_elmo_embeddings
+    batcher = Batcher(vocab_file, 50)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 207, in __init__
+    lm_vocab_file, max_token_length
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 118, in __init__
+    super(UnicodeCharsVocabulary, self).__init__(filename, **kwargs)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 27, in __init__
+    with open(filename, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'ELMO/vocab.txt'
+Fri, 25 Oct 2019 11:57:01 INFO     127.0.0.1 - - [25/Oct/2019 11:57:01] "[1m[35mGET /results?query=что+делать&model=EMLo HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 11:57:01 INFO     127.0.0.1 - - [25/Oct/2019 11:57:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 11:58:08 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:58:08 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:58:08 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 11:58:08 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 11:58:08 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 11:58:12 INFO     127.0.0.1 - - [25/Oct/2019 11:58:12] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:58:12 INFO     127.0.0.1 - - [25/Oct/2019 11:58:12] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:58:25 INFO     Query: лол, Model: FastText
+Fri, 25 Oct 2019 11:58:25 INFO     loading Word2VecKeyedVectors object from fasttext/model.model
+Fri, 25 Oct 2019 11:58:26 INFO     loading vectors_vocab from fasttext/model.model.vectors_vocab.npy with mmap=None
+Fri, 25 Oct 2019 11:58:26 INFO     loading vectors_ngrams from fasttext/model.model.vectors_ngrams.npy with mmap=None
+Fri, 25 Oct 2019 11:58:33 INFO     loading vectors from fasttext/model.model.vectors.npy with mmap=None
+Fri, 25 Oct 2019 11:58:34 INFO     setting ignored attribute vectors_vocab_norm to None
+Fri, 25 Oct 2019 11:58:34 INFO     setting ignored attribute buckets_word to None
+Fri, 25 Oct 2019 11:58:34 INFO     setting ignored attribute vectors_norm to None
+Fri, 25 Oct 2019 11:58:34 INFO     setting ignored attribute vectors_ngrams_norm to None
+Fri, 25 Oct 2019 11:58:34 INFO     loaded fasttext/model.model
+Fri, 25 Oct 2019 11:58:37 INFO     Result: [('Эмма Уотсон блондинка', 0.65), ('кто следующий майкл Джексон', 0.6), ('которые вы предпочитаете супер марио bros 3 или мир супер марио', 0.6), ('как новая книга Гарри Поттера Гарри Поттер и проклятый ребенок', 0.59), ('как Джозеф встретил Мэри', 0.58), ('что бы Майкл Джексон подумал о Дональдском козыре, если майкл был жив сегодня', 0.57), ('почему майкл Джексон всегда записывал пальцы', 0.57), ('вам не понравился Гарри Поттер и проклятый ребенок, или это было просто мной', 0.57), ('кто является дисней принцесса Алиса', 0.56), ('почему у Джона Нэша была шизофрения', 0.55)]
+Fri, 25 Oct 2019 11:58:38 INFO     127.0.0.1 - - [25/Oct/2019 11:58:38] "[37mGET /results?query=лол&model=FastText HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:58:39 INFO     127.0.0.1 - - [25/Oct/2019 11:58:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 11:58:49 INFO     127.0.0.1 - - [25/Oct/2019 11:58:49] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 11:59:28 INFO     Query: что, Model: EMLo
+Fri, 25 Oct 2019 11:59:28 ERROR    Error with query что and model EMLo:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 85, in thanks
+    batcher, sentence_character_ids, elmo_sentence_input = load_elmo_embeddings(elmo_path)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/elmo_helpers.py", line 53, in load_elmo_embeddings
+    batcher = Batcher(vocab_file, 50)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 207, in __init__
+    lm_vocab_file, max_token_length
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 118, in __init__
+    super(UnicodeCharsVocabulary, self).__init__(filename, **kwargs)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 27, in __init__
+    with open(filename, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'ELMO/vocab.txt'
+Fri, 25 Oct 2019 11:59:28 INFO     127.0.0.1 - - [25/Oct/2019 11:59:28] "[1m[35mGET /results?query=что&model=EMLo HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 11:59:28 INFO     127.0.0.1 - - [25/Oct/2019 11:59:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 12:00:15 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 12:00:15 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 12:00:15 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 12:00:15 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 12:00:15 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 12:00:21 INFO     127.0.0.1 - - [25/Oct/2019 12:00:21] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:00:29 INFO     Query: привет, Model: EMLo
+Fri, 25 Oct 2019 12:00:29 ERROR    Error with query привет and model EMLo:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 86, in thanks
+    batcher, sentence_character_ids, elmo_sentence_input = load_elmo_embeddings(elmo_path)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/elmo_helpers.py", line 53, in load_elmo_embeddings
+    batcher = Batcher(vocab_file, 50)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 207, in __init__
+    lm_vocab_file, max_token_length
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 118, in __init__
+    super(UnicodeCharsVocabulary, self).__init__(filename, **kwargs)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 27, in __init__
+    with open(filename, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'ELMO/vocab.txt'
+Fri, 25 Oct 2019 12:00:29 INFO     127.0.0.1 - - [25/Oct/2019 12:00:29] "[1m[35mGET /results?query=привет&model=EMLo HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 12:00:29 INFO     127.0.0.1 - - [25/Oct/2019 12:00:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 12:01:31 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 12:01:31 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 12:01:31 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 12:01:31 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 12:01:31 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 12:01:35 INFO     127.0.0.1 - - [25/Oct/2019 12:01:35] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:01:44 INFO     Query: лол, Model: EMLo
+Fri, 25 Oct 2019 12:01:44 ERROR    Error with query лол and model EMLo:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 88, in thanks
+    batcher, sentence_character_ids, elmo_sentence_input = load_elmo_embeddings(elmo_path)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/elmo_helpers.py", line 53, in load_elmo_embeddings
+    batcher = Batcher(vocab_file, 50)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 207, in __init__
+    lm_vocab_file, max_token_length
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 118, in __init__
+    super(UnicodeCharsVocabulary, self).__init__(filename, **kwargs)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 27, in __init__
+    with open(filename, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'ELMO/vocab.txt'
+Fri, 25 Oct 2019 12:01:44 INFO     127.0.0.1 - - [25/Oct/2019 12:01:44] "[1m[35mGET /results?query=лол&model=EMLo HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 12:01:44 INFO     127.0.0.1 - - [25/Oct/2019 12:01:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 12:02:20 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 12:02:20 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 12:02:20 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 12:02:20 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 12:02:20 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 12:02:23 INFO     127.0.0.1 - - [25/Oct/2019 12:02:23] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:02:30 INFO     Query: лол, Model: EMLo
+Fri, 25 Oct 2019 12:02:30 ERROR    Error with query лол and model EMLo:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 88, in thanks
+    batcher, sentence_character_ids, elmo_sentence_input = load_elmo_embeddings(elmo_path)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/elmo_helpers.py", line 53, in load_elmo_embeddings
+    batcher = Batcher(vocab_file, 50)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 207, in __init__
+    lm_vocab_file, max_token_length
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 118, in __init__
+    super(UnicodeCharsVocabulary, self).__init__(filename, **kwargs)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 27, in __init__
+    with open(filename, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'ELMO/vocab.txt'
+Fri, 25 Oct 2019 12:02:31 INFO     127.0.0.1 - - [25/Oct/2019 12:02:31] "[1m[35mGET /results?query=лол&model=EMLo HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 12:03:52 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 12:03:52 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 12:03:52 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 12:03:52 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 12:03:52 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 12:03:56 INFO     127.0.0.1 - - [25/Oct/2019 12:03:56] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:04:08 INFO     Query: лол, Model: ELMO
+Fri, 25 Oct 2019 12:04:08 ERROR    Error with query лол and model ELMO:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 88, in thanks
+    batcher, sentence_character_ids, elmo_sentence_input = load_elmo_embeddings(elmo_path)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/elmo_helpers.py", line 53, in load_elmo_embeddings
+    batcher = Batcher(vocab_file, 50)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 207, in __init__
+    lm_vocab_file, max_token_length
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 118, in __init__
+    super(UnicodeCharsVocabulary, self).__init__(filename, **kwargs)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 27, in __init__
+    with open(filename, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'ELMO/vocab.txt'
+Fri, 25 Oct 2019 12:04:08 INFO     127.0.0.1 - - [25/Oct/2019 12:04:08] "[1m[35mGET /results?query=лол&model=ELMO HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 12:04:08 INFO     127.0.0.1 - - [25/Oct/2019 12:04:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 12:05:10 INFO     127.0.0.1 - - [25/Oct/2019 12:05:10] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:05:22 INFO     Query: лол, Model: BM25
+Fri, 25 Oct 2019 12:05:23 INFO     Result: [('являются японцами генетически смешанных людей', 0.0), ('являются формами улучшения cbse 2017', 0.0), ('являются флуктуации вакуума, возникающие из-за того, что энергия в вакууме являются этими виртуальными частицами', 0.0), ('являются услугами call girl в Японии', 0.0), ('являются расовые отношения лучше или хуже при президенте Обама', 0.0), ('являются покупки обуви с учетом налога с продаж в новой майке', 0.0), ('являются платками ouija поддельными или реальными', 0.0), ('являются новыми кредитами Macbook за 2016 год, которые стоит повысить', 0.0), ('являются мусульманами, единственными, кто все еще практикует побивание камнями для прелюбодеяния в 21 веке', 0.0), ('являются ли преимущества отрицательных ионов доказанными или являются мифом', 0.0)]
+Fri, 25 Oct 2019 12:05:23 INFO     127.0.0.1 - - [25/Oct/2019 12:05:23] "[37mGET /results?query=лол&model=BM25 HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:05:23 INFO     127.0.0.1 - - [25/Oct/2019 12:05:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 12:05:31 INFO     127.0.0.1 - - [25/Oct/2019 12:05:31] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:05:40 INFO     Query: прикол, Model: FastText
+Fri, 25 Oct 2019 12:05:40 INFO     loading Word2VecKeyedVectors object from fasttext/model.model
+Fri, 25 Oct 2019 12:05:41 INFO     loading vectors_vocab from fasttext/model.model.vectors_vocab.npy with mmap=None
+Fri, 25 Oct 2019 12:05:41 INFO     loading vectors_ngrams from fasttext/model.model.vectors_ngrams.npy with mmap=None
+Fri, 25 Oct 2019 12:05:47 INFO     loading vectors from fasttext/model.model.vectors.npy with mmap=None
+Fri, 25 Oct 2019 12:05:48 INFO     setting ignored attribute vectors_vocab_norm to None
+Fri, 25 Oct 2019 12:05:48 INFO     setting ignored attribute buckets_word to None
+Fri, 25 Oct 2019 12:05:48 INFO     setting ignored attribute vectors_norm to None
+Fri, 25 Oct 2019 12:05:48 INFO     setting ignored attribute vectors_ngrams_norm to None
+Fri, 25 Oct 2019 12:05:48 INFO     loaded fasttext/model.model
+Fri, 25 Oct 2019 12:05:51 INFO     Result: [('что так плохо о женщинах, показывающих их ремни бюстгальтера', 0.45), ('сколько если хлопок хаки сжимается при стирке', 0.45), ('это нормально использовать маскировочную ленту на окрашенной стене, приклеивая плакаты, если нет, я должен использовать обычную скотч-ленту', 0.44), ('что такое логотип пикселя и что это значит?', 0.44), ('то, что я должен делать, если кто-то разместил порно видео под моим именем', 0.44), ('сколько актеров платят за то, что они в неловких рекламных роликах', 0.44), ('какие общие проблемы дизайнеры интерьера при покупке мебели', 0.44), ('какая самая красивая цель волейбола в истории футбола', 0.44), ('если ребята спросят девушек или девушки попросят парней', 0.44), ('если логотип телефона на fb messenger серый, это означает, что мой друг звонит, а когда он поворачивается на синий, это означает, что он сделал с вызовом', 0.44)]
+Fri, 25 Oct 2019 12:05:52 INFO     127.0.0.1 - - [25/Oct/2019 12:05:52] "[37mGET /results?query=прикол&model=FastText HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:05:52 INFO     127.0.0.1 - - [25/Oct/2019 12:05:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 12:06:17 INFO     127.0.0.1 - - [25/Oct/2019 12:06:17] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:51:54 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 12:51:54 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 12:51:54 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 12:51:54 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 12:51:55 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 12:52:00 INFO     127.0.0.1 - - [25/Oct/2019 12:52:00] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:52:00 INFO     127.0.0.1 - - [25/Oct/2019 12:52:00] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:52:26 INFO     Query: геология это жизнь, Model: TF-IDF
+Fri, 25 Oct 2019 12:52:26 INFO     Result: [('как же Sunny Leone так далеко от звезды порно с большим Болливуда актрисы', 0.49), ('каковы основные части системы кровообращения и их функции', 0.4), ('почему Google Chrome не работает, но Internet Explorer', 0.38), ('какие страны были вовлечены в борьбу за Африку', 0.32), ('каковы типы помилований, которые предоставляются коррумпированным президентам в Гондурасе', 0.3), ('когда правительство bjp выведет всех мусульман и христиан индийского гражданства и поместит их на лодках, как ронингья из burma', 0.27), ('как мусульмане отличаются от другой деноминации христианства', 0.27), ('как найти мое имя пользователя и пароль в irctc по моему номеру мобильного телефона или идентификатору электронной почты', 0.26), ('как вы можете владеть совой, какие шаги', 0.25), ('вы ожидаете, что мужчина официально предложит или это достаточно хорошо, чтобы просто взаимно согласиться выйти замуж', 0.25)]
+Fri, 25 Oct 2019 12:52:27 INFO     127.0.0.1 - - [25/Oct/2019 12:52:27] "[37mGET /results?query=геология+это+жизнь&model=TF-IDF HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:52:27 INFO     127.0.0.1 - - [25/Oct/2019 12:52:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 12:53:01 INFO     127.0.0.1 - - [25/Oct/2019 12:53:01] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:53:12 INFO     Query: лол, Model: FastText
+Fri, 25 Oct 2019 12:53:12 INFO     loading Word2VecKeyedVectors object from fasttext/model.model
+Fri, 25 Oct 2019 12:53:13 INFO     loading vectors_vocab from fasttext/model.model.vectors_vocab.npy with mmap=None
+Fri, 25 Oct 2019 12:53:13 INFO     loading vectors_ngrams from fasttext/model.model.vectors_ngrams.npy with mmap=None
+Fri, 25 Oct 2019 12:53:19 INFO     loading vectors from fasttext/model.model.vectors.npy with mmap=None
+Fri, 25 Oct 2019 12:53:19 INFO     setting ignored attribute vectors_vocab_norm to None
+Fri, 25 Oct 2019 12:53:19 INFO     setting ignored attribute buckets_word to None
+Fri, 25 Oct 2019 12:53:19 INFO     setting ignored attribute vectors_norm to None
+Fri, 25 Oct 2019 12:53:19 INFO     setting ignored attribute vectors_ngrams_norm to None
+Fri, 25 Oct 2019 12:53:19 INFO     loaded fasttext/model.model
+Fri, 25 Oct 2019 12:53:21 INFO     Result: [('Эмма Уотсон блондинка', 0.65), ('кто следующий майкл Джексон', 0.6), ('которые вы предпочитаете супер марио bros 3 или мир супер марио', 0.6), ('как новая книга Гарри Поттера Гарри Поттер и проклятый ребенок', 0.59), ('как Джозеф встретил Мэри', 0.58), ('что бы Майкл Джексон подумал о Дональдском козыре, если майкл был жив сегодня', 0.57), ('почему майкл Джексон всегда записывал пальцы', 0.57), ('вам не понравился Гарри Поттер и проклятый ребенок, или это было просто мной', 0.57), ('кто является дисней принцесса Алиса', 0.56), ('почему у Джона Нэша была шизофрения', 0.55)]
+Fri, 25 Oct 2019 12:53:22 INFO     127.0.0.1 - - [25/Oct/2019 12:53:22] "[37mGET /results?query=лол&model=FastText HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:54:33 INFO     127.0.0.1 - - [25/Oct/2019 12:54:33] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:54:49 INFO     Query: приколы, Model: BM25
+Fri, 25 Oct 2019 12:54:49 INFO     Result: [('являются японцами генетически смешанных людей', 0.0), ('являются формами улучшения cbse 2017', 0.0), ('являются флуктуации вакуума, возникающие из-за того, что энергия в вакууме являются этими виртуальными частицами', 0.0), ('являются услугами call girl в Японии', 0.0), ('являются расовые отношения лучше или хуже при президенте Обама', 0.0), ('являются покупки обуви с учетом налога с продаж в новой майке', 0.0), ('являются платками ouija поддельными или реальными', 0.0), ('являются новыми кредитами Macbook за 2016 год, которые стоит повысить', 0.0), ('являются мусульманами, единственными, кто все еще практикует побивание камнями для прелюбодеяния в 21 веке', 0.0), ('являются ли преимущества отрицательных ионов доказанными или являются мифом', 0.0)]
+Fri, 25 Oct 2019 12:54:50 INFO     127.0.0.1 - - [25/Oct/2019 12:54:50] "[37mGET /results?query=приколы&model=BM25 HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:54:50 INFO     127.0.0.1 - - [25/Oct/2019 12:54:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 12:58:51 INFO     127.0.0.1 - - [25/Oct/2019 12:58:51] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:59:18 INFO     Query: в чем смысл жизни, Model: TF-IDF
+Fri, 25 Oct 2019 12:59:18 INFO     Result: [('как вы можете владеть совой, какие шаги', 1.0), ('что я должен делать, когда мои друзья предают меня', 0.81), ('почему медленная загрузка медленно', 0.77), ('что вы делаете после пробуждения', 0.69), ('как я должен начать малый бизнес эффективно', 0.69), ('как это было похоже на постановку конкурсной викторины bournvita vizay raaz', 0.65), ('как мне стать другом?', 0.61), ('есть ли веская причина есть молочный шоколад', 0.61), ('это плохо, чтобы представить неформальное резюме дизайнера в компании-разработчике программного обеспечения для роли разработчика, если вы находитесь в hr, вы откажетесь от такого резюме', 0.57), ('какой лучший ответ, чтобы поблагодарить вас в формальных и случайных ситуациях', 0.56)]
+Fri, 25 Oct 2019 12:59:18 INFO     127.0.0.1 - - [25/Oct/2019 12:59:18] "[37mGET /results?query=в+чем+смысл+жизни&model=TF-IDF HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:59:19 INFO     127.0.0.1 - - [25/Oct/2019 12:59:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 12:59:41 INFO     Query: как мне стать другом, Model: TF-IDF
+Fri, 25 Oct 2019 12:59:41 INFO     Result: [('как путешествовать во времени', 1.0), ('в чем разница между работой психолога и психиатром', 0.79), ('как работают отношения на большие расстояния', 0.53), ('я забыл свой идентификатор и пароль, как я могу войти в мой jio', 0.51), ('каков новый шрифт квора август 16 2016', 0.47), ('я пью о бутылке вина ночью, если я перестану пить, я быстро похудею', 0.46), ('какие хорошие фильмы смотреть', 0.45), ('какие хорошие примеры или тематические исследования кризисных коммуникаций и социальных сетей в восточной Европе или на балтике', 0.44), ('есть ли ученики из sja dehradun on quora', 0.44), ('достаточно одного года для подготовки ворот', 0.43)]
+Fri, 25 Oct 2019 12:59:41 INFO     127.0.0.1 - - [25/Oct/2019 12:59:41] "[37mGET /results?query=как+мне+стать+другом&model=TF-IDF HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 12:59:41 INFO     127.0.0.1 - - [25/Oct/2019 12:59:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 12:59:51 INFO     127.0.0.1 - - [25/Oct/2019 12:59:51] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:00:02 INFO     Query: как мне стать другом, Model: BM25
+Fri, 25 Oct 2019 13:00:03 INFO     Result: [('как мне стать другом?', 6.66), ('как стать сценаристом', 3.96), ('вам нужны друзья', 3.51), ('почему электроны отталкивают друг друга', 3.26), ('лучший комментарий к друзьям', 3.13), ('как мы можем стать хорошими друзьями', 3.01), ('я должен стать профессором', 2.86), ('как стать членом компании', 2.8), ('как стать крупным программистом?', 2.8), ('как расследование станет личным', 2.8)]
+Fri, 25 Oct 2019 13:00:03 INFO     127.0.0.1 - - [25/Oct/2019 13:00:03] "[37mGET /results?query=как+мне+стать+другом&model=BM25 HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:00:03 INFO     127.0.0.1 - - [25/Oct/2019 13:00:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 13:00:11 INFO     127.0.0.1 - - [25/Oct/2019 13:00:11] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:00:25 INFO     Query: как мне стать другом, Model: BM25
+Fri, 25 Oct 2019 13:00:25 INFO     Result: [('как мне стать другом?', 6.66), ('как стать сценаристом', 3.96), ('вам нужны друзья', 3.51), ('почему электроны отталкивают друг друга', 3.26), ('лучший комментарий к друзьям', 3.13), ('как мы можем стать хорошими друзьями', 3.01), ('я должен стать профессором', 2.86), ('как стать членом компании', 2.8), ('как стать крупным программистом?', 2.8), ('как расследование станет личным', 2.8)]
+Fri, 25 Oct 2019 13:00:26 INFO     127.0.0.1 - - [25/Oct/2019 13:00:26] "[37mGET /results?query=как+мне+стать+другом&model=BM25 HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:00:32 INFO     127.0.0.1 - - [25/Oct/2019 13:00:32] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:00:38 INFO     Query: как мне стать другом, Model: TF-IDF
+Fri, 25 Oct 2019 13:00:38 INFO     Result: [('как путешествовать во времени', 1.0), ('в чем разница между работой психолога и психиатром', 0.79), ('как работают отношения на большие расстояния', 0.53), ('я забыл свой идентификатор и пароль, как я могу войти в мой jio', 0.51), ('каков новый шрифт квора август 16 2016', 0.47), ('я пью о бутылке вина ночью, если я перестану пить, я быстро похудею', 0.46), ('какие хорошие фильмы смотреть', 0.45), ('какие хорошие примеры или тематические исследования кризисных коммуникаций и социальных сетей в восточной Европе или на балтике', 0.44), ('есть ли ученики из sja dehradun on quora', 0.44), ('достаточно одного года для подготовки ворот', 0.43)]
+Fri, 25 Oct 2019 13:00:38 INFO     127.0.0.1 - - [25/Oct/2019 13:00:38] "[37mGET /results?query=как+мне+стать+другом&model=TF-IDF HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:00:43 INFO     127.0.0.1 - - [25/Oct/2019 13:00:43] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:00:57 INFO     Query: в чем смысл жизни, Model: TF-IDF
+Fri, 25 Oct 2019 13:00:57 INFO     Result: [('как вы можете владеть совой, какие шаги', 1.0), ('что я должен делать, когда мои друзья предают меня', 0.81), ('почему медленная загрузка медленно', 0.77), ('что вы делаете после пробуждения', 0.69), ('как я должен начать малый бизнес эффективно', 0.69), ('как это было похоже на постановку конкурсной викторины bournvita vizay raaz', 0.65), ('как мне стать другом?', 0.61), ('есть ли веская причина есть молочный шоколад', 0.61), ('это плохо, чтобы представить неформальное резюме дизайнера в компании-разработчике программного обеспечения для роли разработчика, если вы находитесь в hr, вы откажетесь от такого резюме', 0.57), ('какой лучший ответ, чтобы поблагодарить вас в формальных и случайных ситуациях', 0.56)]
+Fri, 25 Oct 2019 13:00:57 INFO     127.0.0.1 - - [25/Oct/2019 13:00:57] "[37mGET /results?query=в+чем+смысл+жизни&model=TF-IDF HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:01:03 INFO     127.0.0.1 - - [25/Oct/2019 13:01:03] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:01:11 INFO     Query: в чем смысл жизни, Model: ...
+Fri, 25 Oct 2019 13:01:11 ERROR    Error with query в чем смысл жизни and model ...:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 92, in thanks
+    logging.info(f'Result: {res_for_print}')
+UnboundLocalError: local variable 'res_for_print' referenced before assignment
+Fri, 25 Oct 2019 13:01:11 INFO     127.0.0.1 - - [25/Oct/2019 13:01:11] "[1m[35mGET /results?query=в+чем+смысл+жизни&model=... HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 13:01:11 INFO     127.0.0.1 - - [25/Oct/2019 13:01:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 13:01:19 INFO     Query: в чем смысл жизни, Model: FastText
+Fri, 25 Oct 2019 13:01:19 INFO     loading Word2VecKeyedVectors object from fasttext/model.model
+Fri, 25 Oct 2019 13:01:20 INFO     loading vectors_vocab from fasttext/model.model.vectors_vocab.npy with mmap=None
+Fri, 25 Oct 2019 13:01:20 INFO     loading vectors_ngrams from fasttext/model.model.vectors_ngrams.npy with mmap=None
+Fri, 25 Oct 2019 13:01:26 INFO     loading vectors from fasttext/model.model.vectors.npy with mmap=None
+Fri, 25 Oct 2019 13:01:26 INFO     setting ignored attribute vectors_vocab_norm to None
+Fri, 25 Oct 2019 13:01:26 INFO     setting ignored attribute buckets_word to None
+Fri, 25 Oct 2019 13:01:26 INFO     setting ignored attribute vectors_norm to None
+Fri, 25 Oct 2019 13:01:26 INFO     setting ignored attribute vectors_ngrams_norm to None
+Fri, 25 Oct 2019 13:01:26 INFO     loaded fasttext/model.model
+Fri, 25 Oct 2019 13:01:29 INFO     Result: [('в чем смысл жизни', 1.0), ('в чем смысл и цель жизни?', 0.93), ('в чем смысл хинди-слова harbat', 0.9), ('в чем смысл или цель жизни', 0.9), ('в чем смысл жизни только в одном слове', 0.9), ('в чем смысл эвтаназии', 0.87), ('в чем смысл слова урду насаза', 0.86), ('в чем смысл слова маратхи зингат', 0.86), ('в чем смысл слова tamil urasanai', 0.86), ('в чем смысл слова marathi kombdi', 0.86)]
+Fri, 25 Oct 2019 13:01:30 INFO     127.0.0.1 - - [25/Oct/2019 13:01:30] "[37mGET /results?query=в+чем+смысл+жизни&model=FastText HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:01:30 INFO     127.0.0.1 - - [25/Oct/2019 13:01:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 13:02:47 INFO     127.0.0.1 - - [25/Oct/2019 13:02:47] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:02:54 INFO     Query: квенмгирштощьлзбд, Model: TF-IDF
+Fri, 25 Oct 2019 13:02:54 INFO     Result: [('являются японцами генетически смешанных людей', 0.0), ('являются формами улучшения cbse 2017', 0.0), ('являются флуктуации вакуума, возникающие из-за того, что энергия в вакууме являются этими виртуальными частицами', 0.0), ('являются услугами call girl в Японии', 0.0), ('являются расовые отношения лучше или хуже при президенте Обама', 0.0), ('являются покупки обуви с учетом налога с продаж в новой майке', 0.0), ('являются платками ouija поддельными или реальными', 0.0), ('являются новыми кредитами Macbook за 2016 год, которые стоит повысить', 0.0), ('являются мусульманами, единственными, кто все еще практикует побивание камнями для прелюбодеяния в 21 веке', 0.0), ('являются ли преимущества отрицательных ионов доказанными или являются мифом', 0.0)]
+Fri, 25 Oct 2019 13:02:55 INFO     127.0.0.1 - - [25/Oct/2019 13:02:55] "[37mGET /results?query=квенмгирштощьлзбд&model=TF-IDF HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:02:55 INFO     127.0.0.1 - - [25/Oct/2019 13:02:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 13:03:05 INFO     127.0.0.1 - - [25/Oct/2019 13:03:05] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 13:03:22 INFO     Query: лол, Model: ELMO
+Fri, 25 Oct 2019 13:03:22 ERROR    Error with query лол and model ELMO:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 88, in thanks
+    batcher, sentence_character_ids, elmo_sentence_input = load_elmo_embeddings(elmo_path)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/elmo_helpers.py", line 53, in load_elmo_embeddings
+    batcher = Batcher(vocab_file, 50)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 207, in __init__
+    lm_vocab_file, max_token_length
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 118, in __init__
+    super(UnicodeCharsVocabulary, self).__init__(filename, **kwargs)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/bilm/data.py", line 27, in __init__
+    with open(filename, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'ELMO/vocab.txt'
+Fri, 25 Oct 2019 13:03:22 INFO     127.0.0.1 - - [25/Oct/2019 13:03:22] "[1m[35mGET /results?query=лол&model=ELMO HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 14:00:37 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 14:00:37 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 14:00:37 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 14:00:37 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 14:00:37 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 14:00:42 INFO     127.0.0.1 - - [25/Oct/2019 14:00:42] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:00:54 INFO     Query: лол, Model: ELMO
+Fri, 25 Oct 2019 14:01:06 INFO     Result: [(39718, 0.54859006), (9289, 0.523847), (5818, 0.52294844), (35157, 0.5200231), (29372, 0.5170799), (16889, 0.5110414), (26298, 0.5100116), (96, 0.5091153), (43661, 0.5079585), (42582, 0.50780517)]
+Fri, 25 Oct 2019 14:01:06 INFO     127.0.0.1 - - [25/Oct/2019 14:01:06] "[37mGET /results?query=лол&model=ELMO HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:05:46 INFO     127.0.0.1 - - [25/Oct/2019 14:05:46] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:05:59 INFO     Query: лол, Model: ELMO
+Fri, 25 Oct 2019 14:06:08 INFO     Result: [(39718, 0.54859006), (9289, 0.523847), (5818, 0.52294844), (35157, 0.5200231), (29372, 0.5170799), (16889, 0.5110414), (26298, 0.5100116), (96, 0.5091153), (43661, 0.5079585), (42582, 0.50780517)]
+Fri, 25 Oct 2019 14:06:08 INFO     127.0.0.1 - - [25/Oct/2019 14:06:08] "[37mGET /results?query=лол&model=ELMO HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:08:17 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 14:08:17 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 14:08:17 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 14:08:17 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 14:08:17 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 14:08:42 INFO     127.0.0.1 - - [25/Oct/2019 14:08:42] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:08:53 INFO     Query: лол, Model: ELMO
+Fri, 25 Oct 2019 14:09:01 ERROR    Error with query лол and model ELMO:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 90, in thanks
+    res_for_print = emlo(query, batcher, sentence_character_ids, elmo_sentence_input, indexed, docs_id)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 273, in emlo
+    result[docs_id[str(i)]] = score
+KeyError: '9999'
+Fri, 25 Oct 2019 14:09:01 INFO     127.0.0.1 - - [25/Oct/2019 14:09:01] "[1m[35mGET /results?query=лол&model=ELMO HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 14:10:19 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 14:10:19 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 14:10:19 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 14:10:19 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 14:10:19 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 14:10:55 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 14:10:59 INFO     127.0.0.1 - - [25/Oct/2019 14:10:59] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:11:07 INFO     Query: лол, Model: ELMO
+Fri, 25 Oct 2019 14:11:15 ERROR    Error with query лол and model ELMO:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 91, in thanks
+    res_for_print = emlo(query, batcher, sentence_character_ids, elmo_sentence_input, indexed, docs_id)
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 274, in emlo
+    result[docs_id[str(i)]] = score
+KeyError: '9999'
+Fri, 25 Oct 2019 14:11:16 INFO     127.0.0.1 - - [25/Oct/2019 14:11:16] "[1m[35mGET /results?query=лол&model=ELMO HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 14:12:30 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 14:12:30 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 14:12:30 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 14:12:30 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 14:12:30 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 14:12:42 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 14:12:42 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 14:12:42 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 14:12:42 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 14:12:42 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 14:13:36 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 14:13:46 INFO     127.0.0.1 - - [25/Oct/2019 14:13:46] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:13:59 INFO     Query: лол, Model: ELMO
+Fri, 25 Oct 2019 14:14:09 INFO     Result: [('какая самая крутая лоза', 0.523847), ('Эмма Уотсон блондинка', 0.52294844), ('почему Гарри стал хрусткем', 0.5091153), ('кошки боятся тигров', 0.49675983), ('как попкорн ядра поп', 0.49332178), ('кто рыжий фокс', 0.48681012), ('саджгуру - мошенник', 0.48680663), ('вегетарианцы кормят своих собак мясом', 0.47906336), ('какая лучшая эспрессо-машина', 0.4743905), ('это правда, что Исаак Ньютон курил', 0.4730556)]
+Fri, 25 Oct 2019 14:14:09 INFO     127.0.0.1 - - [25/Oct/2019 14:14:09] "[37mGET /results?query=лол&model=ELMO HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:15:26 INFO     127.0.0.1 - - [25/Oct/2019 14:15:26] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:15:38 INFO     Query: как пройти в библиотк, Model: ...
+Fri, 25 Oct 2019 14:15:38 ERROR    Error with query как пройти в библиотк and model ...:
+
+ repr(e)
+Traceback (most recent call last):
+  File "/Users/victoriaregina/Downloads/programacion_curso_2-master/HW2/hw2.py", line 93, in thanks
+    logging.info(f'Result: {res_for_print}')
+UnboundLocalError: local variable 'res_for_print' referenced before assignment
+Fri, 25 Oct 2019 14:15:38 INFO     127.0.0.1 - - [25/Oct/2019 14:15:38] "[1m[35mGET /results?query=как+пройти+в+библиотк&model=... HTTP/1.1[0m" 500 -
+Fri, 25 Oct 2019 14:15:38 INFO     127.0.0.1 - - [25/Oct/2019 14:15:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 14:16:32 INFO     127.0.0.1 - - [25/Oct/2019 14:16:32] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:16:48 INFO     Query: в чем смысл жизни, Model: ELMO
+Fri, 25 Oct 2019 14:16:56 INFO     Result: [('в чем смысл жизни', 0.9980213), ('в чем смысл и цель жизни?', 0.90526193), ('в чем смысл или цель жизни', 0.89358836), ('в чем смысл империализма', 0.8147528), ('в чем смысл жизни только в одном слове', 0.8097974), ('в чем суть просветления', 0.7724837), ('в чем смысл жизни, какова наша цель на земле', 0.7391247), ('какой смысл этой жизни', 0.73378205), ('в чем смысл ночных ролей в этой песне?', 0.69562566), ('в чем смысл слова урду насаза', 0.68264884)]
+Fri, 25 Oct 2019 14:16:56 INFO     127.0.0.1 - - [25/Oct/2019 14:16:56] "[37mGET /results?query=в+чем+смысл+жизни&model=ELMO HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:16:56 INFO     127.0.0.1 - - [25/Oct/2019 14:16:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 14:22:20 INFO     127.0.0.1 - - [25/Oct/2019 14:22:20] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 14:22:34 INFO     Query: в чем смысл жизни, Model: ELMO
+Fri, 25 Oct 2019 14:22:43 INFO     Result: [('в чем смысл жизни', 0.9980213), ('в чем смысл и цель жизни?', 0.90526193), ('в чем смысл или цель жизни', 0.89358836), ('в чем смысл империализма', 0.8147528), ('в чем смысл жизни только в одном слове', 0.8097974), ('в чем суть просветления', 0.7724837), ('в чем смысл жизни, какова наша цель на земле', 0.7391247), ('какой смысл этой жизни', 0.73378205), ('в чем смысл ночных ролей в этой песне?', 0.69562566), ('в чем смысл слова урду насаза', 0.68264884)]
+Fri, 25 Oct 2019 14:22:43 INFO     127.0.0.1 - - [25/Oct/2019 14:22:43] "[37mGET /results?query=в+чем+смысл+жизни&model=ELMO HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 15:19:27 INFO     127.0.0.1 - - [25/Oct/2019 15:19:27] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 17:20:45 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 17:20:55 INFO     127.0.0.1 - - [25/Oct/2019 17:20:55] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 17:21:08 INFO     Query: ghbdtn, Model: ELMO
+Fri, 25 Oct 2019 17:21:18 INFO     Result: [('каковы спецификации acer aspire e14', 0.54730815), ('какова связь между python eclipse liclipse и pydev', 0.5453644), ('это ryan reynolds, связанный с debbie reynolds', 0.5444558), ('javascript v8 быстрее, чем python', 0.53956556), ('envita com legal', 0.5394778), ('как вы находите математику frac dy dx math of math tan left frac x y right = x + y math', 0.5363464), ('Что такое математика sqrt 2 + sqrt 2 + sqrt 2 + sqrt 2 + infty math', 0.5344944), ('делает asus zenfone max 32gb поддержкой технологии volte', 0.53448755), ('которая является лучшей книгой механиков для jee advanced - bm sharma cengage d c pandey arihant или anurag mishra balaji', 0.53428257), ('поддерживает php firebase', 0.52894783)]
+Fri, 25 Oct 2019 17:21:18 INFO     127.0.0.1 - - [25/Oct/2019 17:21:18] "[37mGET /results?query=ghbdtn&model=ELMO HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 17:21:19 INFO     127.0.0.1 - - [25/Oct/2019 17:21:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+Fri, 25 Oct 2019 17:41:21 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 17:41:21 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 17:41:21 INFO     Loading dictionaries from /anaconda3/lib/python3.6/site-packages/pymorphy2_dicts/data
+Fri, 25 Oct 2019 17:41:21 INFO     format: 2.4, revision: 393442, updated: 2015-01-17T16:03:56.586168
+Fri, 25 Oct 2019 17:41:21 INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Fri, 25 Oct 2019 17:41:26 INFO     127.0.0.1 - - [25/Oct/2019 17:41:26] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 17:41:41 INFO     Query: ghbdtn, Model: ELMO
+Fri, 25 Oct 2019 17:42:03 INFO     Result: [('каковы спецификации acer aspire e14', 0.54730815), ('какова связь между python eclipse liclipse и pydev', 0.5453644), ('это ryan reynolds, связанный с debbie reynolds', 0.5444558), ('javascript v8 быстрее, чем python', 0.53956556), ('envita com legal', 0.5394778), ('как вы находите математику frac dy dx math of math tan left frac x y right = x + y math', 0.5363464), ('Что такое математика sqrt 2 + sqrt 2 + sqrt 2 + sqrt 2 + infty math', 0.5344944), ('делает asus zenfone max 32gb поддержкой технологии volte', 0.53448755), ('которая является лучшей книгой механиков для jee advanced - bm sharma cengage d c pandey arihant или anurag mishra balaji', 0.53428257), ('поддерживает php firebase', 0.52894783)]
+Fri, 25 Oct 2019 17:42:03 INFO     127.0.0.1 - - [25/Oct/2019 17:42:03] "[37mGET /results?query=ghbdtn&model=ELMO HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 17:43:03 INFO     127.0.0.1 - - [25/Oct/2019 17:43:03] "[37mGET / HTTP/1.1[0m" 200 -
+Fri, 25 Oct 2019 17:43:20 INFO     Query: в чем смысл жизни, Model: TF-IDF
+Fri, 25 Oct 2019 17:43:21 INFO     Result: [('как вы можете владеть совой, какие шаги', 1.0), ('что я должен делать, когда мои друзья предают меня', 0.81), ('почему медленная загрузка медленно', 0.77), ('что вы делаете после пробуждения', 0.69), ('как я должен начать малый бизнес эффективно', 0.69), ('как это было похоже на постановку конкурсной викторины bournvita vizay raaz', 0.65), ('как мне стать другом?', 0.61), ('есть ли веская причина есть молочный шоколад', 0.61), ('это плохо, чтобы представить неформальное резюме дизайнера в компании-разработчике программного обеспечения для роли разработчика, если вы находитесь в hr, вы откажетесь от такого резюме', 0.57), ('какой лучший ответ, чтобы поблагодарить вас в формальных и случайных ситуациях', 0.56)]
+Fri, 25 Oct 2019 17:43:21 INFO     127.0.0.1 - - [25/Oct/2019 17:43:21] "[37mGET /results?query=в+чем+смысл+жизни&model=TF-IDF HTTP/1.1[0m" 200 -
